@@ -1,0 +1,46 @@
+================================================================================
+TOP 10 JAVA REPOSITORIES WITH BOM & TRANSITIVE DEPENDENCY OVERRIDES
+Updated in Last Month (2026-03-12 to 2026-04-12)
+================================================================================
+
+1. alibaba/spring-cloud-alibaba
+   https://github.com/alibaba/spring-cloud-alibaba
+   Stars: 29,092
+
+2. apolloconfig/apollo
+   https://github.com/apolloconfig/apollo
+   Stars: 29,749
+
+3. apache/incubator-seata
+   https://github.com/apache/incubator-seata
+   Stars: 25,966
+
+4. alibaba/druid
+   https://github.com/alibaba/druid
+   Stars: 28,207
+
+5. yanivnahoum/spring-boot-examples
+   https://github.com/yanivnahoum/spring-boot-examples
+   Stars: N/A (Example project)
+
+6. apache/kafka
+   https://github.com/apache/kafka
+   Stars: 32,360
+
+7. apache/flink
+   https://github.com/apache/flink
+   Stars: 25,938
+
+8. apache/dubbo
+   https://github.com/apache/dubbo
+   Stars: 41,588
+
+9. spring-projects/spring-boot
+   https://github.com/spring-projects/spring-boot
+   Stars: 80,400
+
+10. spring-projects/spring-framework
+    https://github.com/spring-projects/spring-framework
+    Stars: 59,839
+
+================================================================================

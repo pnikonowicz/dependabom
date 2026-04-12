@@ -1,0 +1,13 @@
+how to register an app: 
+  https://docs.github.com/en/apps/creating-github-apps/registering-a-github-app/registering-a-github-app
+
+rest api for creating a check run:
+  https://docs.github.com/en/rest/checks/runs?apiVersion=2026-03-10
+
+example for creatig a check run:
+  https://www.kenmuse.com/blog/creating-github-checks/
+
+
+notes:
+  webhook is required for PR integration
+
